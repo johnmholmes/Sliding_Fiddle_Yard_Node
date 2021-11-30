@@ -3,3 +3,9 @@ This Node is used to control a sliding fiddle yard it is based on an Arduino Nan
 The movement is using a 2x Nema 17 stepper motor and A4988 stepper drivers 
 
 its the work of a MERG Member PHILLIP EDWARDS (EDDY)
+
+link to youtube video
+https://youtu.be/WHKehi0OA5M
+
+link to website information
+https://www.rmweb.co.uk/community/index.php?/topic/163799-freelance-industrial-layout-essex-brick/#comment-4553315
