@@ -9,5 +9,8 @@ its the work of a MERG Member PHILLIP EDWARDS (EDDY) with the help of other memb
 link to youtube video
 https://youtu.be/WHKehi0OA5M
 
+and new youtube channel
+https://www.youtube.com/channel/UCn2oLJrPsTWksH5S2Qy2N7g
+
 link to website information
 https://www.rmweb.co.uk/community/index.php?/topic/163799-freelance-industrial-layout-essex-brick/#comment-4553315
